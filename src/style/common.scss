@@ -1,0 +1,34 @@
+$mainColor: #ff7800;
+$secondColor: blue;
+.fs40 {
+  font-size: 40px;
+  text-align:left;
+}
+.mar-top--65 {
+  margin-top: -65px;
+}
+.mar-top--87 {
+  margin-top: -87px;
+}
+
+.mar-left-10 {
+  margin-left: 10px;
+}
+.mar-right-10 {
+  margin-right: 10px;
+}
+
+.hoverBoxShadow {
+  transition: all 0.3s linear;
+  &:hover {
+    box-shadow: 1px 0px 10px -4px #000;
+    cursor: pointer;
+  }
+}
+.hoverColorFF7 {
+  transition: all 0.3s linear;
+  &:hover {
+    color: #ff7800 !important;
+    cursor: pointer;
+  }
+}
