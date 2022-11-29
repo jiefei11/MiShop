@@ -1,4 +1,4 @@
-# blog
+# MiShop
 
 ## Project setup
 ```
